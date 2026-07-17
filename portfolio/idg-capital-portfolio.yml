@@ -1,0 +1,644 @@
+generated: '2026-07-17'
+method: searched
+source: https://idgcapital.com/portfolio/
+summary:
+  portfolio_total: 75
+  in_network: 6
+  api_providers: 4
+  missing: 69
+  stubs_created: 0
+companies:
+- name: Acne Studios
+  url: https://acnestudios.com/
+  description: Swedish luxury fashion house known for ready-to-wear, denim, and accessories.
+  sector: consumer
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: acne-studios
+- name: Aiko Solar
+  url: https://aikosolar.com/
+  description: Chinese manufacturer of high-efficiency solar cells and photovoltaic modules.
+  sector: consumer-technology
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: aiko-solar
+- name: Andon Health
+  description: Chinese medical device maker specializing in home health monitoring and iHealth-branded
+    devices.
+  sector: healthcare
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: andon-health
+- name: Anker Innovations
+  url: https://anker.com/
+  description: Consumer electronics brand for charging, power banks, audio, and smart-home devices.
+  sector: consumer-technology
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: anker-innovations
+- name: Avistone
+  description: Chinese biopharmaceutical company developing targeted cancer therapies.
+  sector: healthcare
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: avistone
+- name: Baidu
+  url: https://baidu.com/
+  description: Chinese internet search engine and AI company.
+  sector: consumer-technology
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: baidu
+- name: BAMA TEA
+  description: Chinese premium tea brand specializing in oolong and Tieguanyin teas.
+  sector: consumer
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bama-tea
+- name: Bambu Lab
+  url: https://bambulab.com/
+  description: Consumer desktop 3D printer manufacturer.
+  sector: consumer-technology
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bambu-lab
+- name: Bestcomm
+  description: Chinese medical technology company.
+  sector: healthcare
+  status: unknown
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bestcomm
+- name: Biotyx Medical
+  description: Chinese developer of bioabsorbable vascular scaffolds and cardiovascular devices.
+  sector: healthcare
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: biotyx-medical
+- name: BrainCo
+  description: Brain-machine interface company building neurotech wearables and prosthetics.
+  sector: healthcare
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: brainco
+- name: Brosmed
+  description: Chinese cardiovascular medical device manufacturer.
+  sector: healthcare
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: brosmed
+- name: ByteDance
+  url: https://bytedance.com/
+  description: Technology company behind TikTok, Douyin, and Toutiao.
+  sector: consumer-technology
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bytedance
+- name: Chery
+  description: Chinese automaker producing passenger and new-energy vehicles.
+  sector: consumer-technology
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: chery
+- name: Chi Forest
+  description: Chinese sparkling-water and healthy beverage brand (Genki Forest).
+  sector: consumer
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: chi-forest
+- name: Chiral Quest
+  description: Chiral chemistry and asymmetric hydrogenation technology company.
+  sector: healthcare
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: chiral-quest
+- name: Circle
+  url: https://circle.com/
+  description: Fintech issuer of the USDC stablecoin and digital-dollar infrastructure.
+  sector: consumer-technology
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  slug: circle
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: CNANO
+  description: Chinese producer of carbon nanotube conductive materials for lithium batteries.
+  sector: consumer-technology
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cnano
+- name: Coinbase
+  url: https://coinbase.com/
+  description: Cryptocurrency exchange and digital asset platform.
+  sector: consumer-technology
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  slug: coinbase
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Ctrip
+  url: https://ctrip.com/
+  description: Chinese online travel agency (Trip.com Group).
+  sector: consumer-technology
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ctrip
+- name: Dida
+  description: Chinese ride-hailing and carpooling platform (Dida Chuxing).
+  sector: consumer-technology
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dida
+- name: DMall
+  description: Chinese digital retail SaaS and omnichannel commerce platform.
+  sector: consumer
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dmall
+- name: ECOVACS Robotics
+  url: https://ecovacs.com/
+  description: Consumer home service robots including robotic vacuum cleaners.
+  sector: consumer-technology
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ecovacs-robotics
+- name: Farfetch
+  url: https://farfetch.com/
+  description: Online luxury fashion marketplace (acquired by Coupang).
+  sector: consumer
+  status: acquired
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: farfetch
+- name: Fourier
+  description: Chinese rehabilitation and humanoid robotics company (Fourier Intelligence).
+  sector: healthcare
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fourier
+- name: Foxconn Industrial Internet
+  description: Industrial internet and smart-manufacturing arm of Foxconn.
+  sector: consumer-technology
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: foxconn-industrial-internet
+- name: Gentle Monster
+  url: https://gentlemonster.com/
+  description: South Korean premium eyewear and lifestyle brand.
+  sector: consumer
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gentle-monster
+- name: Gokin
+  description: Chinese solar and clean-energy technology company.
+  sector: consumer-technology
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gokin
+- name: Growatt
+  url: https://growatt.com/
+  description: Chinese maker of solar inverters and energy storage systems.
+  sector: consumer-technology
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: growatt
+- name: H World Group
+  description: Chinese hotel operator (formerly Huazhu Group).
+  sector: consumer
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: h-world-group
+- name: HEYTEA
+  description: Chinese premium freshly-made tea beverage chain.
+  sector: consumer
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: heytea
+- name: HuiHe Healthcare
+  description: Chinese healthcare company.
+  sector: healthcare
+  status: unknown
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: huihe-healthcare
+- name: HXCORMED
+  description: Chinese cardiovascular medical device company.
+  sector: healthcare
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hxcormed
+- name: HyperStrong
+  description: Chinese energy-storage system integrator.
+  sector: consumer-technology
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hyperstrong
+- name: i-Incubator Healthcare
+  description: Chinese healthcare incubation and investment platform.
+  sector: healthcare
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: i-incubator-healthcare
+- name: Insta360
+  url: https://insta360.com/
+  description: Maker of 360-degree and action cameras.
+  sector: consumer-technology
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: insta360
+- name: Jiumaojiu
+  description: Chinese restaurant group operating Tai Er and other dining brands.
+  sector: consumer
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jiumaojiu
+- name: Kanghui Medical
+  description: Chinese orthopedic medical device company.
+  sector: healthcare
+  status: acquired
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kanghui-medical
+- name: Kelun-Biotech
+  description: Chinese biopharmaceutical company developing oncology antibody-drug conjugates.
+  sector: healthcare
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kelun-biotech
+- name: lakrids by bülow
+  url: https://lakridsbybulow.com/
+  description: Danish premium liquorice confectionery brand.
+  sector: consumer
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lakrids-by-b-low
+- name: Legendary Entertainment
+  url: https://legendary.com/
+  description: Film and television production company.
+  sector: consumer
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: legendary-entertainment
+- name: Light Chaser Animation Studios
+  description: Chinese animation studio producing feature films.
+  sector: consumer
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: light-chaser-animation-studios
+- name: Lilith Games
+  description: Chinese mobile game developer and publisher.
+  sector: consumer
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lilith-games
+- name: Luckin Coffee
+  url: https://luckincoffee.com/
+  description: Chinese coffee retail chain.
+  sector: consumer
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: luckin-coffee
+- name: Maxvax
+  description: Chinese vaccine developer.
+  sector: healthcare
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: maxvax
+- name: Meituan
+  url: https://meituan.com/
+  description: Chinese local-services, food-delivery, and e-commerce platform.
+  sector: consumer-technology
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: meituan
+- name: Minghui Pharmaceutical
+  description: Chinese clinical-stage pharmaceutical company.
+  sector: healthcare
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: minghui-pharmaceutical
+- name: Minova Pharma
+  description: Chinese pharmaceutical company.
+  sector: healthcare
+  status: unknown
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: minova-pharma
+- name: Moncler
+  url: https://moncler.com/
+  description: Italian luxury outerwear and fashion brand.
+  sector: consumer
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: moncler
+- name: Opera
+  url: https://opera.com/
+  description: Web browser and internet products company.
+  sector: consumer-technology
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: opera
+- name: Ping An Good Doctor
+  description: Chinese online healthcare and telemedicine platform (Ping An Health).
+  sector: healthcare
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ping-an-good-doctor
+- name: Pony.ai
+  url: https://pony.ai/
+  description: Autonomous driving technology company (robotaxi and robotruck).
+  sector: consumer-technology
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  slug: pony-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Razer
+  url: https://razer.com/
+  description: Gaming hardware, peripherals, and lifestyle brand.
+  sector: consumer
+  status: acquired
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: razer
+- name: Red RidgeBio
+  description: US biotechnology company developing novel therapeutics.
+  sector: healthcare
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: red-ridgebio
+- name: R&G / Nors Group
+  description: Healthcare and distribution group.
+  sector: healthcare
+  status: unknown
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: r-and-g-nors-group
+- name: Rossignol
+  url: https://rossignol.com/
+  description: French ski, snowboard, and winter-sports equipment maker.
+  sector: consumer
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rossignol
+- name: SCIWIND
+  description: Chinese biopharmaceutical company developing metabolic disease therapies.
+  sector: healthcare
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sciwind
+- name: Sunshine Lake Pharma
+  description: Chinese pharmaceutical manufacturer (HEC Group).
+  sector: healthcare
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sunshine-lake-pharma
+- name: SUNWODA
+  description: Chinese lithium-ion battery and energy storage manufacturer.
+  sector: consumer-technology
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sunwoda
+- name: Super Sports Media
+  description: Sports media and broadcasting rights company.
+  sector: consumer
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: super-sports-media
+- name: Swiss Education Group
+  description: Swiss hospitality management education group.
+  sector: consumer
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: swiss-education-group
+- name: Teligene
+  description: Biopharmaceutical company developing precision oncology therapies.
+  sector: healthcare
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: teligene
+- name: Tencent
+  url: https://tencent.com/
+  description: Chinese internet, gaming, and social platform conglomerate.
+  sector: consumer-technology
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  slug: wechat
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Three Squirrels
+  description: Chinese online snack and nut food brand.
+  sector: consumer
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: three-squirrels
+- name: To Summer
+  description: Chinese premium fragrance and home lifestyle brand (Guanxia).
+  sector: consumer
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: to-summer
+- name: United Solar
+  description: Solar photovoltaic technology company.
+  sector: consumer-technology
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: united-solar
+- name: Vincentage
+  description: Chinese pharmaceutical company.
+  sector: healthcare
+  status: unknown
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vincentage
+- name: Vitalgen
+  description: Chinese gene therapy biotechnology company.
+  sector: healthcare
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vitalgen
+- name: WeiMai
+  description: Chinese digital healthcare services platform.
+  sector: healthcare
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: weimai
+- name: Xiaoe-tech
+  description: Chinese SaaS platform for private-domain content and knowledge commerce.
+  sector: consumer-technology
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: xiaoe-tech
+- name: Xiaomi
+  url: https://mi.com/
+  description: Consumer electronics, smartphone, and smart-device company.
+  sector: consumer-technology
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  slug: xiaomi
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: XPeng
+  url: https://xpeng.com/
+  description: Chinese smart electric vehicle manufacturer.
+  sector: consumer-technology
+  status: ipo
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: xpeng
+- name: Yao Hu Town
+  description: Chinese technology and cultural tourism project.
+  sector: consumer-technology
+  status: unknown
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: yao-hu-town
+- name: Yoplait China
+  description: Yoplait China dairy and yogurt joint venture.
+  sector: consumer
+  status: active
+  source: https://idgcapital.com/portfolio/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: yoplait-china
+- name: Zoox
+  url: https://zoox.com/
+  description: Autonomous robotaxi company (subsidiary of Amazon).
+  sector: consumer-technology
+  status: acquired
+  source: https://idgcapital.com/portfolio/
+  slug: zoox
+  in_network: true
+  is_api_provider: false
+  matched_by: domain

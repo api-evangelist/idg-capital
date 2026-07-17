@@ -1,0 +1,76 @@
+aid: idg-capital
+name: IDG Capital
+description: >-
+  IDG Capital is a global investment firm founded in Boston in 1993 and
+  headquartered in Hong Kong, widely recognized as one of the first foreign
+  venture investors to enter China. Over more than 30 years it has grown into a
+  multi-stage platform spanning venture capital, growth capital, buyout,
+  secondary markets, and public markets, with reported assets under management
+  of roughly $20–23 billion. The firm has backed 1,800+ companies and realized
+  600+ exits, employing 300+ staff (about 40% investment professionals) across
+  12 offices on three continents, including Hong Kong, Beijing, Shanghai,
+  Shenzhen, Guangzhou, Singapore, Seoul, Boston, New York, Barcelona, Muscat,
+  and the Cayman Islands. IDG Capital concentrates on Consumer, Consumer
+  Technology, Healthcare, and Fintech/Web3, and its portfolio includes early
+  bets on many of China's technology leaders — Tencent, Baidu, Xiaomi, Meituan,
+  ByteDance, and Ctrip — alongside global names such as Coinbase, Circle,
+  Farfetch, Moncler, Acne Studios, and Insta360.
+x-type: venture-capital
+x-category: Venture Capital
+image: https://idgcapital.com/wp-content/uploads/2024/03/logo.svg
+tags:
+  - Venture Capital
+  - Growth Capital
+  - Multi-Stage
+  - Consumer
+  - Consumer Technology
+  - Healthcare
+  - Fintech
+  - Web3
+  - China
+  - Asia Pacific
+  - Global
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://idgcapital.com/
+  - type: Portfolio
+    url: https://idgcapital.com/portfolio/
+  - type: Portfolio
+    url: portfolio/idg-capital-portfolio.yml
+  - type: InvestmentThesis
+    url: https://idgcapital.com/about-us/
+  - type: Contact
+    url: https://idgcapital.com/contact-us/
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/idg-capital
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/idgvc/
+  - type: Twitter
+    url: https://x.com/IDGCapital
+  - type: Features
+    data:
+      - 'Stage: Venture, Growth, Buyout, Secondary, Public Markets (multi-stage)'
+      - 'Sectors: Consumer, Consumer Technology, Healthcare, Fintech/Web3'
+      - 'Geography: China / Asia Pacific, Americas, Europe (global)'
+      - 'AUM: ~$20-23B (third-party reported)'
+      - 'Portfolio: 1,800+ companies; 600+ exits'
+      - 'Team: 300+ staff, ~40% investment professionals'
+      - 'Founded: 1993 (Boston)'
+      - 'HQ: Hong Kong; 12 offices across 3 continents'
+    sources:
+      - https://idgcapital.com/
+      - https://idgcapital.com/about-us/
+      - https://en.wikipedia.org/wiki/IDG_Capital
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: IDG Capital
+    url: https://idgcapital.com/
