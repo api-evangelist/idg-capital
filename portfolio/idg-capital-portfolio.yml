@@ -38,6 +38,7 @@ companies:
   is_api_provider: false
   slug: andon-health
   matched_by: name-slug
+  x-url-candidate: https://www.andon.com/
 - name: Anker Innovations
   url: https://anker.com/
   description: Consumer electronics brand for charging, power banks, audio, and smart-home devices.
@@ -56,7 +57,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: avistone
-  matched_by: name-slug
+  matched_by: domain
+  url: https://en.avistonebio.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Baidu
   url: https://baidu.com/
   description: Chinese internet search engine and AI company.
@@ -112,7 +115,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: brainco
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.brainco.tech/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Brosmed
   description: Chinese cardiovascular medical device manufacturer.
   sector: healthcare
@@ -122,6 +127,7 @@ companies:
   is_api_provider: false
   slug: brosmed
   matched_by: name-slug
+  x-url-candidate: https://brosmed.ai
 - name: ByteDance
   url: https://bytedance.com/
   description: Technology company behind TikTok, Douyin, and Toutiao.
@@ -140,7 +146,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: chery
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.cheryinternational.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Chi Forest
   description: Chinese sparkling-water and healthy beverage brand (Genki Forest).
   sector: consumer
@@ -149,7 +157,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: chi-forest
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.chiforest.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Chiral Quest
   description: Chiral chemistry and asymmetric hydrogenation technology company.
   sector: healthcare
@@ -206,7 +216,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: dida
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.didatravel.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: DMall
   description: Chinese digital retail SaaS and omnichannel commerce platform.
   sector: consumer
@@ -215,7 +227,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: dmall
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.dmall.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: ECOVACS Robotics
   url: https://ecovacs.com/
   description: Consumer home service robots including robotic vacuum cleaners.
@@ -245,6 +259,7 @@ companies:
   is_api_provider: false
   slug: fourier
   matched_by: name-slug
+  x-url-candidate: http://www.fourier.com/
 - name: Foxconn Industrial Internet
   description: Industrial internet and smart-manufacturing arm of Foxconn.
   sector: consumer-technology
@@ -272,7 +287,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: gokin
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.gokinsolar.com/en
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Growatt
   url: https://growatt.com/
   description: Chinese maker of solar inverters and energy storage systems.
@@ -300,7 +317,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: heytea
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.heytea.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: HuiHe Healthcare
   description: Chinese healthcare company.
   sector: healthcare
@@ -327,7 +346,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: hyperstrong
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.hyperstrong.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: i-Incubator Healthcare
   description: Chinese healthcare incubation and investment platform.
   sector: healthcare
@@ -431,6 +452,7 @@ companies:
   is_api_provider: false
   slug: maxvax
   matched_by: name-slug
+  x-url-candidate: https://maxvax.ai
 - name: Meituan
   url: https://meituan.com/
   description: Chinese local-services, food-delivery, and e-commerce platform.
@@ -516,7 +538,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: red-ridgebio
-  matched_by: name-slug
+  matched_by: domain
+  url: https://redridgebio.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: R&G / Nors Group
   description: Healthcare and distribution group.
   sector: healthcare
@@ -544,7 +568,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: sciwind
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.sciwindbio.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Sunshine Lake Pharma
   description: Chinese pharmaceutical manufacturer (HEC Group).
   sector: healthcare
@@ -562,7 +588,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: sunwoda
-  matched_by: name-slug
+  matched_by: domain
+  url: https://en.sunwoda.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Super Sports Media
   description: Sports media and broadcasting rights company.
   sector: consumer
@@ -589,7 +617,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: teligene
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.teligenebio.cn/en/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Tencent
   url: https://tencent.com/
   description: Chinese internet, gaming, and social platform conglomerate.
@@ -617,7 +647,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: to-summer
-  matched_by: name-slug
+  matched_by: domain
+  url: https://tosummer.cn/cn
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: United Solar
   description: Solar photovoltaic technology company.
   sector: consumer-technology
@@ -626,7 +658,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: united-solar
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.unitedsolarholding.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Vincentage
   description: Chinese pharmaceutical company.
   sector: healthcare
@@ -644,7 +678,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: vitalgen
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.vitalgen.com/en/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: WeiMai
   description: Chinese digital healthcare services platform.
   sector: healthcare
