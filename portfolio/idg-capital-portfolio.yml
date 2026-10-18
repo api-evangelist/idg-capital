@@ -4,7 +4,7 @@ source: https://idgcapital.com/portfolio/
 summary:
   portfolio_total: 75
   in_network: 75
-  api_providers: 6
+  api_providers: 5
   missing: 0
   stubs_created: 0
 companies:
@@ -391,7 +391,7 @@ companies:
   status: active
   source: https://idgcapital.com/portfolio/
   in_network: true
-  is_api_provider: true
+  is_api_provider: false
   slug: legendary
   matched_by: domain
 - name: Light Chaser Animation Studios
@@ -596,7 +596,7 @@ companies:
   sector: consumer-technology
   status: ipo
   source: https://idgcapital.com/portfolio/
-  slug: wechat
+  slug: tencentcloud
   in_network: true
   is_api_provider: true
   matched_by: domain
